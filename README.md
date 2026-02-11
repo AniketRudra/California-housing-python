@@ -1,3 +1,6 @@
+Here is a shorter, cleaner version:
+
+---
 
 ## Linear Regression on California Housing Dataset
 
